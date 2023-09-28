@@ -70,9 +70,9 @@ a {
 }
 
 .container {
-  padding: 32px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .card {
@@ -84,5 +84,5 @@ a {
 .footer {
   display: flex;
   align-items: center;
-  justify-content: center;
+  
 }
